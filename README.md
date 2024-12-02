@@ -1,5 +1,11 @@
 #  Hello Fellow < Developers/ >!
-👋🏻 I am keenly interested in coding, Software Engineering, computer science, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains. <br>👀 At present, I am actively involved in open-source contribution, getting my hands-on experience with all the learnings in web development, aiming to become a proficient full-stack developer.<br>🤝 I’m looking for help with open-source <br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about web dev<br>
+👋🏻 Hello there! I'm passionate about coding, software engineering, and computer science research. I'm always eager to expand my skills and knowledge in these areas. 🚀
+
+👀 Currently, I'm:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Exploring Kubernetes to deepen my infrastructure knowledge.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻 contributing to open-source projects and applying my learnings in full-stack web development.
+
+🤝Let's connect and build something amazing together! 🛠️💡
 
 
 ## 🌐 Socials:
