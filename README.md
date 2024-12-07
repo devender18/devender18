@@ -1,5 +1,5 @@
-#  Hello Fellow < Developers/ >!
-👋🏻 Hello there! I'm passionate about coding, software engineering, and computer science research. I'm always eager to expand my skills and knowledge in these areas. 🚀
+<h1 align="center">Hello 👋, Fellow < Developers/ >!</h1>
+ I'm passionate about coding, software engineering, and computer science research. I'm always eager to expand my skills and knowledge in these areas. 🚀
 
 👀 Currently, I'm:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Exploring Kubernetes to deepen my infrastructure knowledge.<br/>
