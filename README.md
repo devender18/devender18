@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Fellow < Developers/ >!</h1>
  I'm a software engineer. I'm always eager to expand my skills and knowledge in computer science and newer technologies. 🚀
 
-👀 Currently, I'm:<br/>
+👀 Currently:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Exploring Kubernetes to deepen my infrastructure knowledge.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻 contributing to open-source projects and applying my learnings in full-stack web development.
 
